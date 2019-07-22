@@ -4,9 +4,9 @@
 
 ## Configure
 - Alter ./nuxt.config.js to change your 
--- client_id (mandatory)
--- state (mandatory)
--- redirect url (optional)
+  - client_id (mandatory)
+  - state (mandatory)
+  - redirect url (optional)
 - later ./pages/secure.vue to point to your storage account
 
 ## Build Setup
